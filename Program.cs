@@ -12,5 +12,12 @@ Console.WriteLine(today);
 if (input)
 {
     int age = getAnni(dataDiNascità, today);
-    Console.WriteLine(age);
+    if (age > 18)
+    {
+        Console.WriteLine("Benvenuto nel sito web");
+    }
+    else
+    {
+        Console.WriteLine("Sei troppo giovane per accedere a questo sito web.");
+    }
 }

@@ -1,0 +1,15 @@
+C:\Users\pince\Documents\csharp\CalcoloEtà\bin\Debug\net8.0\CalcoloEtà.exe
+C:\Users\pince\Documents\csharp\CalcoloEtà\bin\Debug\net8.0\CalcoloEtà.deps.json
+C:\Users\pince\Documents\csharp\CalcoloEtà\bin\Debug\net8.0\CalcoloEtà.runtimeconfig.json
+C:\Users\pince\Documents\csharp\CalcoloEtà\bin\Debug\net8.0\CalcoloEtà.dll
+C:\Users\pince\Documents\csharp\CalcoloEtà\bin\Debug\net8.0\CalcoloEtà.pdb
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.AssemblyInfoInputs.cache
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.AssemblyInfo.cs
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.csproj.CoreCompileInputs.cache
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.sourcelink.json
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.dll
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\refint\CalcoloEtà.dll
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.pdb
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\CalcoloEtà.genruntimeconfig.cache
+C:\Users\pince\Documents\csharp\CalcoloEtà\obj\Debug\net8.0\ref\CalcoloEtà.dll
